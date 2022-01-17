@@ -1,0 +1,60 @@
+.container {
+    height: 800px;
+    background-color: #252525;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+.orange {
+    border: 5px solid #FF6E1D;
+    width: 200px;
+    height: 30px;
+    border-radius: 100px;
+    text-align: center;
+    color: #FF6E1D;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.turquoise {
+    border: 5px solid #2CFFF2;
+    width: 200px;
+    height: 30px;
+    border-radius: 100px;
+    text-align: center;
+    color: #2CFFF2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.pink {
+    border: 5px solid #FF54A6;
+    width: 200px;
+    height: 30px;
+    border-radius: 100px;
+    text-align: center;
+    color: #FF54A6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.red {
+    border: 5px solid #FF3E3E;
+    width: 200px;
+    height: 30px;
+    border-radius: 100px;
+    text-align: center;
+    color: #FF3E3E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}

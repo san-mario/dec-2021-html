@@ -1,0 +1,41 @@
+.red {
+    height: 70px;
+    background-color: darkred;
+    color: sandybrown;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+.grey {
+    height: 100px;
+    background-color: lightslategray;
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.blue {
+    height: 100px;
+    background-color: cornflowerblue;
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+
+}
+
+.green {
+    height: 240px;
+    width: 330px;
+    background-color: green;
+}
+
+.darkgrey {
+    height: 240px;
+    width: 330px;
+    background-color: darkgrey;
+    border-radius: 10%;
+}
